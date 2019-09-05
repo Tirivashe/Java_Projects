@@ -1,0 +1,36 @@
+Name: Christopher Simmons
+Position: Professor of Computer Science and Software Engineering
+Publications:
+    Authors: Simmons, L. L., Simmons, C. B., Parks, R., Hayek, M., Mbarika, V. W.
+	Title: A Cultural Comparison of Trust in eLearning Artifacts
+	Conference/Journal Name: Decision Sciences Journal of Innovative Education
+	Conference Location: N/A
+	Year: 2012
+
+    Authors: Simmons, C., Jones, D., Simmons, L.
+	Title: A Framework and Demo for Preventing Anti-Computer Forensics
+	Conference/Journal Name: Issues in Information Systems
+	Conference Location: N/A
+	Year: 2011
+------
+Name: Arisoa Randrianasolo
+Position: Assistant Professor
+Publications:
+    Authors: Arisoa S. Randrianasolo and Larry D. Pyeatt
+    Title: An Artificial Immune System Based on Holland's Classifier as Network Intrusion Detection
+    Conference/Journal Name: 11th International Conference on Machine Learning and Applications
+    Conference Location: Boca Raton, FL
+    Year: 2012
+
+    Authors: Arisoa S. Randrianasolo and Larry D. Pyeatt
+    Title: Applying Context-Based Prediction in Adversarial Watkins' Q() Learning
+    Conference/Journal Name: International Conference on Artificial Intelligence
+    Conference Location: Las Vegas, NV
+    Year: 2011
+
+    Authors: Eddy C. Borera, Arisoa S. Randrianasolo, Madhi Naser-Moghadasi and Larry D. Pyeatt
+    Title: Pruning POMDP Value Functions with the Kaczmarz Iterative Method
+    Conference/Journal Name: Mexican International Conference on Artificial Intelligence
+    Conference Location: Pachuca, Mexico
+    Year: 2010
+-----
